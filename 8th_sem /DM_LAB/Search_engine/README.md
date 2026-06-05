@@ -1,4 +1,4 @@
-# JobZEN 🔍
+# JobZen🔍
 
 An Information Retrieval (IR) based Job Search Engine built in **Python using Google Colab**. The system allows users to search job postings using keywords and Boolean queries while ranking results using the **TF-IDF algorithm**.
 
